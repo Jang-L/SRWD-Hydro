@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1008219657.svg)](https://doi.org/10.5281/zenodo.16739291)
 # Super-Resolution of Waterbody with DEM and Hydrodynamics (SRWD-Hydro)
 Combined with Digital Elevation Mpdel (DEM), the resolution of water identification results can be improved, and calculate more credible flood risk mapping with water surface elevation and water depth
 ![screen capture](/PNG_ASSET/Figure.png)
